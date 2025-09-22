@@ -1,9 +1,9 @@
 {
     "type": "code",
-    "modid": "mymodid",
-    "name": "My Template Mod",
+    "modid": "desire-paths",
+    "name": "Desire Paths",
     "authors": [
-        "Unknown"
+        "TTPerotti"
     ],
     "description": "To be added",
     "version": "1.0.0",
